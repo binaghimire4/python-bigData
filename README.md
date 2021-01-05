@@ -3,8 +3,8 @@ Python is a popular programming language for developing software and data scienc
  - How to speed up the data analysis?
    - NumPy, Numba, and Dask
  - What to do when the data set size exceeds the available physical memory? 
-   - Dask Arrays and Dask Dataframes 
+   - Dask Arrays, Bags, and Dataframes 
  - How to distribute the workloads when doing machine learning for big data sets?
-   - Dask API to Scikit-Learn, Tensorflow, and Keras.
+   - Dask Machine Learning (API to Scikit-Learn, PyTorch, Tensorflow, and Keras)
 
 You can execute the example notebooks in Binder Hub (https://github.com/dmbala/binder-PyBigData)
