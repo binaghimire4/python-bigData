@@ -7,8 +7,9 @@ Python is a popular programming language for developing software and data scienc
  - How to distribute the workloads when doing machine learning for big data sets?
    - Dask Machine Learning (API to Scikit-Learn, PyTorch, Tensorflow, and Keras)
 
-You can execute the example notebooks in Binder Hub (https://mybinder.org/v2/gh/dmbala/binder-PyBigData/master) 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dmbala/python-bigData)
+You can execute the example notebooks in Binder Hub or Google Colab. 
 
 
 [![Binder](http://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/dmbala/binder-PyBigData/main)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dmbala/python-bigData)
+
