@@ -1,1 +1,2 @@
 Here will put the images
+Array vs List https://stackoverflow.com/questions/47576775/getting-list-indexed-memory-locations-not-value-locations-but-list-index-locati
