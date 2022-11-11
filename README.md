@@ -13,3 +13,5 @@ You can execute the example notebooks in Binder Hub or Google Colab.
 [![Binder](http://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/dmbala/binder-PyBigData/main)
 or
 [![Binder](http://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/dmbala/binder-PyML/main)
+or
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dmbala/python-bigData)
